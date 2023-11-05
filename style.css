@@ -1,0 +1,41 @@
+body{
+    font-family: cursive;
+    background-color: #e8c4ff;
+}
+.erro{
+    color: red;
+}
+
+#lista-feriados{
+    list-style-type: none;
+}
+
+#lista-feriados li{
+    padding: 10px;
+    border: solid 2px #460f52;
+    margin: 10px;
+}
+
+#lista-feriados li h4{
+    color: #000000; 
+    font-size: 20px;
+}
+
+
+#lista-feriados li p{
+    color: rgb(53, 53, 53); 
+}
+
+input{
+    font-family: cursive;
+    width: 250px;
+    height: 30px;
+}
+
+button {
+    font-family: cursive;
+    background-color: #a40ddb;
+    color:aliceblue;
+    width: 100px;
+    height: 30px;
+}
